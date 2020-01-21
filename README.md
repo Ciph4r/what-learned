@@ -7,6 +7,7 @@
 * Markdown - a simpler web language 
 * Slack - a program we use to message and and send files
 * Mac os - nvr used Mac OS before so i learned alot there
+* github - a repo where you upload and store your code
 * Team push/pull to github
 * Video studio code - a all in one text editor for html/css/java
 * 
