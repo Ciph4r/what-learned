@@ -8,5 +8,6 @@
 * Slack - a program we use to message and and send files
 * Mac os - nvr used Mac OS before so i learned alot there
 * Team push/pull to github
+* Video studio code - a all in one text editor for html/css/java
 * 
 * 
